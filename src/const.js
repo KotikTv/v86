@@ -88,7 +88,7 @@ var
  */
 flags_default = 1 << 1,
 
-
+ENABLE_ACPI = true
 /** @const */ reg_eax = 0,
 /** @const */ reg_ecx = 1,
 /** @const */ reg_edx = 2,
